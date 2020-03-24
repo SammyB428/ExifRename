@@ -33,6 +33,8 @@
 ** OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+/* SPDX-License-Identifier: BSD-2-Clause */
+
 namespace ExifRename
 {
     /// <summary>
